@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 68,
+    "height" : 114
+  }, {
+    "width" : 136,
+    "height" : 228
+  }, {
+    "width" : 272,
+    "height" : 456
+  }, {
+    "width" : 544,
+    "height" : 911
+  }, {
+    "width" : 1087,
+    "height" : 1822
+  }, {
+    "width" : 2174,
+    "height" : 3643
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2174,
+  "@id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_068-25-26-f",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3643
+}
