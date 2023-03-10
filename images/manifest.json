@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3096,
+    "id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_058-01-02-f/canvas/",
+    "label" : {
+      "none" : [ "stem229_058-01-02-f" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_058-01-02-f/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_058-01-02-f/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 97,
+              "height" : 77
+            }, {
+              "width" : 194,
+              "height" : 153
+            }, {
+              "width" : 387,
+              "height" : 306
+            }, {
+              "width" : 774,
+              "height" : 611
+            }, {
+              "width" : 1548,
+              "height" : 1222
+            }, {
+              "width" : 3096,
+              "height" : 2443
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3096,
+            "@id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_058-01-02-f",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2443
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3096,
+          "id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_058-01-02-f/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2443
+        },
+        "target" : "https://Richel325.github.io/stefanssonmodel/images/stem229_058-01-02-f/canvas/"
+      } ]
+    } ],
+    "height" : 2443
+  }, {
     "width" : 3041,
     "id" : "https://Richel325.github.io/stefanssonmodel/images/stem229_057-35-36-f/canvas/",
     "label" : {
